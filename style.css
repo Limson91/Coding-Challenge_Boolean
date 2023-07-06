@@ -1,0 +1,76 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    /* color: white; */
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    height: 750px;
+    padding:80px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.logo-title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 220, 4);
+}
+
+.booking{
+    margin: auto;
+    width: 900px;
+    height: 20px;
+    padding: 10px;
+    background-color:rgb(8, 220, 4);
+}
+
+main{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    text-align: left;
+    color: white;
+}
+
+.name{
+    font-size: 24px;
+}
+
+#scooter1{
+    margin: 50px 20px;
+}
+
+#scooter2{
+    margin: 50px 20px;
+}
+
+#scooter3{
+    margin: 50px 20px;
+}
+
+.charge1{
+    width: 300px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgb(255, 187, 61);
+}
+
+.charge2{
+    width: 600px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgb(109, 255, 61);
+}
+
+.charge3{
+    width: 200px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgb(255, 61, 74);
+}
